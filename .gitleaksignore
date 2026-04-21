@@ -1,0 +1,23 @@
+# False positives -- all are documentation examples, skill files, and sample codebases
+2c72babd52145952d28421815cd43a1a01bb81d1:docs/skills/engineering-team/senior-secops.md:generic-api-key:406
+2c72babd52145952d28421815cd43a1a01bb81d1:docs/skills/engineering/api-design-reviewer.md:generic-api-key:260
+2c72babd52145952d28421815cd43a1a01bb81d1:docs/skills/product-team/competitive-teardown.md:curl-auth-header:149
+40df8ff9d6c0cd74b9eed675cd297b929d91e505:product-team/competitive-teardown/SKILL.md:curl-auth-header:139
+28d542139f4e7a4dba57daea1f90de32e7f5b0b5:product-team/competitive-teardown/SKILL.md:curl-auth-header:139
+b374a742908a674a05ef1db06a7e9e3800594da8:engineering/api-design-reviewer/SKILL.md:generic-api-key:250
+91af2a883a0ecce704b131cfbe98e6e17df7cd77:engineering/tech-debt-tracker/assets/sample_codebase/src/user_service.py:generic-api-key:14
+91af2a883a0ecce704b131cfbe98e6e17df7cd77:engineering/tech-debt-tracker/assets/sample_codebase/src/frontend.js:generic-api-key:5
+91af2a883a0ecce704b131cfbe98e6e17df7cd77:engineering/tech-debt-tracker/assets/sample_codebase/src/payment_processor.py:stripe-access-token:16
+5e1f6955e81b55e6df78ac7bcb519c4c5ab0b328:engineering-team/senior-security/scripts/secret_scanner.py:private-key:165
+5e1f6955e81b55e6df78ac7bcb519c4c5ab0b328:engineering-team/senior-security/scripts/secret_scanner.py:private-key:183
+336eeec20092b785f4a258adcaa2fa2ded04916c:engineering-team/senior-security/references/security-architecture-patterns.md:generic-api-key:583
+5e1f6955e81b55e6df78ac7bcb519c4c5ab0b328:engineering-team/senior-security/references/security-architecture-patterns.md:generic-api-key:583
+336eeec20092b785f4a258adcaa2fa2ded04916c:engineering-team/senior-security/scripts/secret_scanner.py:private-key:165
+336eeec20092b785f4a258adcaa2fa2ded04916c:engineering-team/senior-security/scripts/secret_scanner.py:private-key:183
+2713ad3bf02311d64e968dc97a6b16aad724cad4:engineering-team/code-reviewer/references/common_antipatterns.md:generic-api-key:363
+c6463482990ce63acd518b36a49c966899992d43:engineering-team/code-reviewer/references/common_antipatterns.md:generic-api-key:363
+3c940aae024427f207032070b13ea509ca488051:engineering-team/senior-secops/SKILL.md:generic-api-key:399
+c0989817bcafec347113fa1f7636df824a597314:engineering-team/senior-secops/SKILL.md:generic-api-key:399
+c0989817bcafec347113fa1f7636df824a597314:engineering-team/senior-secops/references/security_standards.md:generic-api-key:341
+3c940aae024427f207032070b13ea509ca488051:engineering-team/senior-secops/references/security_standards.md:generic-api-key:341
+e8af39aed6af1a5b1ed3d3c193cb209a2efe338e:standards/security/security-standards.md:generic-api-key:54
